@@ -1139,9 +1139,10 @@ cosmiconfig@^2.1.0, cosmiconfig@^2.1.1:
     parse-json "^2.2.0"
     require-from-string "^1.1.0"
 
-"croppie@git://github.com/builtbykrit/Croppie.git":
-  version "2.6.4"
-  resolved "git://github.com/builtbykrit/Croppie.git#2a57816fe35ff7905fbe7080eaafe25ce01e8b2a"
+croppie@2.6.2:
+  version "2.6.2"
+  resolved "https://registry.yarnpkg.com/croppie/-/croppie-2.6.2.tgz#d605ceeffb4aea281f72a63c9a0a305db0a46e50"
+  integrity sha512-uvQI8XliWNWiquFCgIjwNoWCjbnQ/qvyitwIj8F4PjwrH40vniPmKSXmXaIbiWNojiraCi08PovKXfs8YXjMGg==
 
 cross-spawn@^5.0.1:
   version "5.1.0"
